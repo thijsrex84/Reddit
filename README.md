@@ -95,8 +95,8 @@ Ga ten slotte aan de slag met styling zodat de pagina er precies zo uitziet als 
 ## Schermontwerpen
 De screenshots zijn erg groot. Download de screenshots om ze te bekijken:
 
-Desktop design home
-Desktop design subreddit
+[Desktop design home](https://github.com/hogeschoolnovi/frontend-react-concept-opdracht/blob/master/src/assets/screenshot-reddit-home.png)
+[Desktop design subreddit](https://github.com/hogeschoolnovi/frontend-react-concept-opdracht/blob/master/src/assets/screenshot-reddit-subreddit.png)
 
 ## Bijlage
 
