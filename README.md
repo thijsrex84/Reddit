@@ -22,7 +22,7 @@ Reddit heeft tevens enkele API endpoints beschikbaar gemaakt die je kunt gebruik
 * `GET https://www.reddit.com/hot.json?limit=15` voor de 15 populairste posts van dit moment
 * `GET https://www.reddit.com/r/{SUBREDDIT-HIER}/about.json` om de informatie over een specifieke subreddit op te halen, waarbij je `{SUBREDDIT-HIER]` vervangt door bijvoorbeeld `memes` of `worldnews`. 
 
-![browser-screenshot](./assets/screenshots/browser-screenshot.png)
+![browser-screenshot](./src/assets/screenshot.png)
 
 ## Opdracht 1: opzet
 
