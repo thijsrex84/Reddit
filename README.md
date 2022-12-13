@@ -7,11 +7,11 @@
 3. [Opdracht 2: Routing](#opdracht-2-routing)
 4. [Opdracht 3: Homepagina (data ophalen en weergeven)](#opdracht-3-homepagina-data-ophalen-en-weergeven)
 5. [Opdracht 4: Subreddit pagina (data ophalen en weergeven)](#opdracht-4-subreddit-pagina-data-ophalen-en-weergeven)
-7. [Opdracht 5: Styling](#opdracht-5-styling);
-8. [Bonusopdracht](#bonusopdracht)
-9. [Schermontwerpen](#schermontwerpen)
-10. [Bijlage](#bijlage)
-    1. [Mappen structuur](#voorbeeld-mappen-structuur)
+6. [Opdracht 5: Styling](#opdracht-5-styling);
+7. [Bonusopdracht](#bonusopdracht)
+8. [Schermontwerpen](#schermontwerpen)
+9. [Bijlage](#bijlage)
+10. [Mappen structuur](#voorbeeld-mappen-structuur)
 
 ## Inleiding
 Het is tijd om al jouw CSS, JavaScript en React skills in de praktijk te brengen: je gaat de webapplicatie van Reddit ontwikkelen. De
