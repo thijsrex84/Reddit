@@ -1,0 +1,20 @@
+
+
+.top-half {
+    padding-top: 175px;
+    padding-bottom: 175px;
+}
+
+.beschrijving {
+    margin-left: 25px;
+    padding: 10px;
+    font-family: var(--ff-quicksand);
+}
+
+.back-link {
+    margin-top: 40px;
+    margin-left: 35px;
+    font-family: var(--ff-quicksand);
+    color: var(--red-color);
+    text-decoration: underline;
+}
