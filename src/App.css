@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto+Condensed&display=swap');
+
+/*font-family: 'Roboto Condensed', sans-serif;*/
+/*font-family: 'Quicksand', sans-serif;*/
+
+:root {
+    --red-color: #dd3038;
+    --orange-color: #e7613a;
+    --snow-color: #FDF4F2;
+    --white-color: #FFFFFF;
+    --black-color: #292929;
+
+    --ff-roboto: 'Roboto Condensed', sans-serif;
+    --ff-quicksand: 'Quicksand', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.outer-container{
+    width: 1500px;
+}
+
+.inner-container{
+    width: 800px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header {
+    background-color: var(--red-color);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.logo-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reddit-title {
+    text-align: center;
+}
+
+.nav-list {
+    display: flex;
+    width: 225px;
+    list-style-type: none;
+    justify-content: space-between;
+
+}
+
+.nav-link {
+    color: var(--white-color);
+}
+
+.bottom-half {
+    background-color: var(--snow-color);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.hottest-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.reddit-right-now {
+    text-align: center;
+}
+
+.hottest-posts {
+    text-align: center;
+}
+
+.tiles-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.reddit-tile {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 240px;
+    height: 150px;
+    background-color: var(--white-color);
+    color: var(--black-color);
+    font-size: 15px;
+    margin-bottom: 40px;
+    font-family: var(--ff-quicksand);
+
+
+}
+
+.hot-reddit-link {
+    text-decoration: none;
+    color: var(--black-color);
+    text-overflow: ellipsis ellipsis;
+    overflow: hidden;
+
+}
+
+.subreddit-link {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: var(--black-color);
+}
+
+.copyright {
+    text-align: center;
+    color: var(--white-color);
+}
+
+
